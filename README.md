@@ -30,7 +30,7 @@ A8: E-F<BR>
           <p>
   
   
-<H1>SAIDA</H1>
+<H2>SAIDA</H2>
 Matriz de Adjacencias<BR>
 
  0 1 0 0 0 1<BR>
