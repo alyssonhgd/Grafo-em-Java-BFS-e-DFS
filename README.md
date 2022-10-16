@@ -4,27 +4,21 @@ Algoritmo feito em Java para Leitura de um arquivo simples que contenha um grafo
 
 <h2>Grafo.txt</h2>
 
-<VERTICES>
-NUMERO DE VERTICES: 4
-  <p>
-A-B-C-D
-    <p>
-<ARESTAS>
-  <p>
-NUMERO DE ARESTAS: 4
-    <p>
-A1-A2-A3-A4
-      <p>
-<CONEXOES ENTRE VERTICES>
-  <p>
-A1: A-B
-<p>
-A2: B-C
-<p>
-A3: C-D
-<p>
-A4: D-A
-<p>
+\<VERTICES><BR>
+NUMERO DE VERTICES: 6<BR>
+A-B-C-D-E-F<BR>
+\<ARESTAS><BR>
+NUMERO DE ARESTAS: 8<BR>
+A1-A2-A3-A4-A5-A6-A7-A8<BR>
+\<CONEXOES ENTRE VERTICES><BR>
+A1: A-B<BR>
+A2: A-F<BR>
+A3: B-C<BR>
+A4: B-F<BR>
+A5: C-F<BR>
+A6: C-E<BR>
+A7: E-E<BR>
+A8: E-F<BR>
   
   <h2>O Algoritmo tem os metodos a seguir:</h2>
     <p>
