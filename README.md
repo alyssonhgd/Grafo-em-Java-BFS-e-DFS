@@ -30,3 +30,19 @@ A8: E-F<BR>
           <p>
   
   
+<H1>SAIDA</H1>
+Matriz de Adjacencias<BR>
+
+ 0 1 0 0 0 1<BR>
+ 1 0 1 0 0 1<BR>
+ 0 1 0 0 1 1<BR>
+ 0 0 0 0 0 0<BR>
+ 0 0 1 0 1 1<BR>
+ 1 1 1 0 1 0<BR>
+            
+ Grafo não Euleriano!<BR>
+
+Busca Profundidade: A-B-C-E-F-<BR>
+Busca em Largura:   A-B-F-C-E-<BR>
+            
+            
